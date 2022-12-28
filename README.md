@@ -7,6 +7,5 @@ We have used ortools library, ortools is a software library developed by Google 
 To install ortools, you will need to have Python installed on your system. ortools is compatible with Python 2.7 and Python 3.5 or later.
 To install ortools using pip, the Python package manager, open a terminal window and enter the following command:
 
-'''
+'''python
 pip install ortools
-'''
