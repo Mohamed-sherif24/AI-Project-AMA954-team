@@ -16,7 +16,7 @@ You can download the code as a zip file from
 
  >**Prof. Ahmed Emam**
  >
- >**Dr. Ismaeil Ahmed.**
+ >**Eng. Ismaeil Ahmed**
 
 ## Project Team:
 
