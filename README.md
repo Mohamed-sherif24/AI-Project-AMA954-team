@@ -18,5 +18,4 @@ You can download the code as a zip file from
 
 ## Project Team:
 
-_**Mohammad Sherif Mousa Dabour-ID:(221101055)**_                                                                                                                  _**Ahmed Ali Ahmed-ID:(221101004)**_                                                                                                                             _**Abdelkhalek Mohamed Abdelkhalek-ID:(221101029)**_
-
+ **Mohammad Sherif Mousa Dabour-ID:(221101055)**                                                                                                                    **Ahmed Ali Ahmed-ID:(221101004)**                                                                                                                          **Abdelkhalek Mohamed Abdelkhalek-ID:(221101029)**
