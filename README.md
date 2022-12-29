@@ -10,7 +10,8 @@ To install ortools using pip, the Python package manager, open a terminal window
 > **pip install ortools**
 
 You can download the Project as a zip file from
-[here](https://drive.google.com/file/d/1ftM2wBkzNhB_J_DgNx2YRewHsO8oqOhN/view?usp=share_link). Inside this file, there are two additional files that we tried to link. We tried a lot, but unfortunately, we couldn't.
+[here](https://drive.google.com/file/d/1ftM2wBkzNhB_J_DgNx2YRewHsO8oqOhN/view?usp=share_link). Inside this file, there are two additional files that we tried to link. We tried a lot, but unfortunately, we couldn't.                                                                                                                         Click [here](https://colab.research.google.com/drive/1qDc47kR9WHGLxwleZwQpIxVkQ_F1YU76?usp=sharing) to view the code with an explanation.
+
 
 ## supervised by:
 
