@@ -12,16 +12,13 @@ To install ortools using pip, the Python package manager, open a terminal window
 You can download the code as a zip file from
 [here](https://drive.google.com/file/d/181CSPVrij9uX9JXJh-R-ZGMSy5LM62K8/view?usp=share_link)
 
-*supervised by:*
+## supervised by:
 
 Prof. Ahmed Emam
-
 Dr. Ismaeil Ahmed
 
-*Project Team:*
+## Project Team:
 
-Mohammad Sherif Mousa Dabour-ID:(221101055)
-
-Ahmed Ali Ahmed-ID:(221101004)
-
-Abdelkhalek Mohamed Abdelkhalek-ID:(221101029)
+*Mohammad Sherif Mousa Dabour-ID:(221101055)
+*Ahmed Ali Ahmed-ID:(221101004)
+*Abdelkhalek Mohamed Abdelkhalek-ID:(221101029)
