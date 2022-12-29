@@ -17,8 +17,6 @@ Prof. Ahmed Emam
 Dr. Ismaeil Ahmed
 
 *Project Team:*
-Mohammad Sherif Mousa Dabour
-Ahmed Ali Ahmed 221101004
-![image](https://user-images.githubusercontent.com/105702708/209889082-5ce58eb1-5a27-4c25-a529-6303f90f94b7.png)
-
-Abdelkhalek Mohamed Abdelkhalek-221101029
+Mohammad Sherif Mousa Dabour-ID:(221101055)
+Ahmed Ali Ahmed-ID:(221101004)
+Abdelkhalek Mohamed Abdelkhalek-ID:(221101029)
